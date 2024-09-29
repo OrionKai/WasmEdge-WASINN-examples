@@ -10,6 +10,7 @@ pub fn main() {
     let model_bin_name: &str = &args[1];
     let image_name: &str = &args[2];
 
+    println!("Loading graph");
     let graph = wasi_nn::GraphBuilder::new(
         wasi_nn::GraphEncoding::Pytorch,
         wasi_nn::ExecutionTarget::CPU,
