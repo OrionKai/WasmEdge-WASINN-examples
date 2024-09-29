@@ -1,0 +1,9 @@
+/home/orionkai/CS/WasmEdge-WASINN-examples/whisper-basic/target/debug/deps/libwasmedge_wasi_nn-ef58c3fce5cfb5a8.rmeta: /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/lib.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/generated.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/error.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/graph.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/tensor.rs
+
+/home/orionkai/CS/WasmEdge-WASINN-examples/whisper-basic/target/debug/deps/wasmedge_wasi_nn-ef58c3fce5cfb5a8.d: /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/lib.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/generated.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/error.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/graph.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/tensor.rs
+
+/home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/lib.rs:
+/home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/generated.rs:
+/home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/error.rs:
+/home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/graph.rs:
+/home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge-wasi-nn-0.8.0/src/tensor.rs:

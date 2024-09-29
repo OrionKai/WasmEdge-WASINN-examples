@@ -1,0 +1,1 @@
+/home/orionkai/CS/WasmEdge-WASINN-examples/pytorch-mobilenet-image/rust/target/wasm32-wasi/release/wasmedge-wasinn-example-mobilenet-image.wasm: /home/orionkai/CS/WasmEdge-WASINN-examples/pytorch-mobilenet-image/rust/src/imagenet_classes.rs /home/orionkai/CS/WasmEdge-WASINN-examples/pytorch-mobilenet-image/rust/src/main.rs

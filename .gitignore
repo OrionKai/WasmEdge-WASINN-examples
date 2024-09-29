@@ -1,5 +1,4 @@
 **/build
-**/target
 **/*.gguf
 
 openvino-mobilenet-image/mobilenet.bin

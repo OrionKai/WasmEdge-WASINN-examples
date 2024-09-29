@@ -1,0 +1,11 @@
+/home/orionkai/CS/WasmEdge-WASINN-examples/pytorch-mobilenet-image/rust/target/wasm32-wasi/release/deps/libwasi_nn-c273904fec4fb51b.rmeta: /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/lib.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/generated.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/error.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/graph.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/tensor.rs
+
+/home/orionkai/CS/WasmEdge-WASINN-examples/pytorch-mobilenet-image/rust/target/wasm32-wasi/release/deps/libwasi_nn-c273904fec4fb51b.rlib: /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/lib.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/generated.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/error.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/graph.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/tensor.rs
+
+/home/orionkai/CS/WasmEdge-WASINN-examples/pytorch-mobilenet-image/rust/target/wasm32-wasi/release/deps/wasi_nn-c273904fec4fb51b.d: /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/lib.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/generated.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/error.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/graph.rs /home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/tensor.rs
+
+/home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/lib.rs:
+/home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/generated.rs:
+/home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/error.rs:
+/home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/graph.rs:
+/home/orionkai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasi-nn-0.6.0/src/tensor.rs:
