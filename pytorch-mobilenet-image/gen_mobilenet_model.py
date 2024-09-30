@@ -10,8 +10,7 @@ with torch.no_grad():
     out1 = model(fake_input).squeeze()
 
     sm = torch.jit.script(model)
-    if not os.path.exists("mobilenet.pt"):
-        sm.save("mobilenet.pt")
+    sm.save("mobilenet.pt")
     load_sm = jit.load("mobilenet.pt")
     out2 = load_sm(fake_input).squeeze()
 

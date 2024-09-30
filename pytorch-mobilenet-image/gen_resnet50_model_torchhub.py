@@ -9,8 +9,7 @@ with torch.no_grad():
     out1 = model(fake_input).squeeze()
 
     sm = torch.jit.script(model)
-    if not os.path.exists("resnet50.pt"):
-        sm.save("resnet50.pt")
+    sm.save("resnet50.pt")
     load_sm = jit.load("resnet50.pt")
     out2 = load_sm(fake_input).squeeze()
 

@@ -9,8 +9,7 @@ with torch.no_grad():
     out1 = model(fake_input)
 
     sm = torch.jit.script(model)
-    if not os.path.exists("googlenet.pt"):
-        sm.save("googlenet.pt")
+    sm.save("googlenet.pt")
     load_sm = jit.load("googlenet.pt")
     out2 = load_sm(fake_input)
 

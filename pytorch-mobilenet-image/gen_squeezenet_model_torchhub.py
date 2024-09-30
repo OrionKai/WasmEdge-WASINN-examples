@@ -9,8 +9,7 @@ with torch.no_grad():
     out1 = model(fake_input).squeeze()
 
     sm = torch.jit.trace(model, fake_input)
-    if not os.path.exists("squeezenet.pt"):
-        sm.save("squeezenet.pt")
+    sm.save("squeezenet.pt")
     load_sm = jit.load("squeezenet.pt")
     out2 = load_sm(fake_input).squeeze()
 
