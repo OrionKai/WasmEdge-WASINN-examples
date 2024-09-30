@@ -8,7 +8,7 @@ with torch.no_grad():
     model.eval()
     out1 = model(fake_input)
 
-    sm = torch.jit.script(model)
+    sm = torch.jit.trace(model, fake_input)
     sm.save("googlenet.pt")
     load_sm = jit.load("googlenet.pt")
     out2 = load_sm(fake_input)
